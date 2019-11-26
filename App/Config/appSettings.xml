@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <config>
+        <connection>
+            <host>localhost</host>
+            <user>root</user>
+            <pwd></pwd>
+            <db_name>FecapSocial</db_name>
+        </connection>
+        <log>
+            <show_log>true</show_log>
+            <dir_log>c:\temp</dir_log>
+        </log>
+    </config>
